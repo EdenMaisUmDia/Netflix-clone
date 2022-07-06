@@ -65,7 +65,7 @@ export default () => {
       </section>
 
       <footer>
-        Feito com <span role="img" aria-label="coração"><img src="https://images.emojiterra.com/twitter/v14.0/512px/2764.png" className="coracao"></img> </span> para Cecilia <br />
+        Feito com <span role="img" aria-label="coração"><img src="https://images.emojiterra.com/twitter/v14.0/512px/2764.png" className="coracao"></img> </span> para Maria Luiza <br />
         Direitos de imagem para Netflix<br />
         Dados Themoviedb.org
       </footer>
